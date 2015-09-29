@@ -10,5 +10,5 @@
 **note**
 
 ```
-javascript
+javascript: var foo = 10 + '20';
 ```
