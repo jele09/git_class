@@ -6,3 +6,9 @@
 
 1. [Coding Questions](#coding-questions)
 1. [Fun Questions](#fun-questions)
+
+**note**
+
+```
+javascript
+```
